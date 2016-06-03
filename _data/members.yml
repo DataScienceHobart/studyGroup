@@ -1,6 +1,9 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Michael Sumner
+  affiliation: Australian Antarctic Division and Antarctic Climate and Ecosystems CRC
+  github: mdsumner
   interests:
     - Programming
     - Open Science
+    - R
+    - geo-spatial
+    
